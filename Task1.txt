@@ -1,1 +1,4 @@
 console.log(hello)
+
+function ass (va1, va2)
+return va
